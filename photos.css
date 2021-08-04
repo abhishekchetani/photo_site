@@ -2,7 +2,7 @@ img {
     /* width: 100px; */
     width: 30%;                         /* percentages as it changes responsively with body width */
     /* margin: 1.6666666%; */
-    margin: calc(10%/6);
+    margin: calc(10%/6);                /* distributing margin evenly in b/w images without Flexbox */
 }
 
 /* 30 + 30 + 30
